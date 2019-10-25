@@ -8,13 +8,28 @@ In this part of the project we will be implementing a prototype of the water sta
 
 Each water station will need to have at the minimum two water pumps, a water tower, and a control mechanism. 
 We will be using electronic components in order to model a water station and demonstrate how the project will actually work when implemented. We will use the following components to achieve our goal:
+
+
 1- Two electric motors
+
+
 2- One GSM unit compatible with Microprocessors
+
+
 3- One Microprocessor
+
+
 4- Two ultrasonic water sensors
+
+
 5- Two water meters
+
+
 6- One breadboard
+
+
 7- Accessories
+
 
 ### 3. Software
 
